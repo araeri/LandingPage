@@ -23,20 +23,23 @@ Este proyecto es una landing page responsiva desarrollada con **React** y **Type
 
 ### Requisitos previos
 
-- [Node.js](https://nodejs.org/) (recomendado: v18 o superior)
-- [npm](https://www.npmjs.com/) (o [yarn](https://yarnpkg.com/))
+- [Node.js](https://nodejs.org/) 
+- [npm](https://www.npmjs.com/) 
 
 ### Pasos para levantar el proyecto
 
-1. Clonar el repositorio:
+Clonar el repositorio 
+#### `git clone https://github.com/tu-usuario/nombre-del-repo.git`
+#### `cd nombre-del-repo`
+o descargar el archivo ZIP desde GitHub y descomprimirlo.
 
 Instalar dependencias:
 
-### `npm install`
+#### `npm install`
 
 Levantar el servidor en local:
 
-### `npm start`
+#### `npm start`
 
 Abrir en el navegador: 
 [http://localhost:3000](http://localhost:3000) .
